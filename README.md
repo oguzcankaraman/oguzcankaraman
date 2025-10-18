@@ -1,6 +1,6 @@
 # Hi there, I'm Oğuzcan Karaman 👋
 
-🎓 Computer Science & Engineering student @ Ankara Bilim University  
+🎓 Computer Engineering student @ Ankara Bilim University  
 💼 Full-stack Developer | AI/ML Enthusiast  
 🚀 Building production-ready AI applications  
 📍 Ankara, Turkey
